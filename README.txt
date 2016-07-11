@@ -1,4 +1,4 @@
-## The XCOM Database Project
+The XCOM Database Project
 
 ------------------------------------------
 ##### Abstract:
@@ -13,7 +13,7 @@
 * Enable Passkey Protection
 * Create Officer Promotions
 * Create Psionic Promotions
-* Create Panic Scenario Testing (P.S.T.) (x will vs y will, percentages)
+* Create Panic Scenario Testing (P.S.T.) (x will vs. y will, percentages)
 * Create a current campaign list which can be exported (by a giant 'Campaign Finished' Button) and changed (add, subtract, modify soldiers)
 * Enable an input of initial stats and class, then have functions to change the stats automatically
 * Create GUI for XCOMsys 
@@ -21,7 +21,6 @@
 ------------------------------------------
 ##### Possible Future Functions and Ideas:
 ------------------------------------------
-
 * Make levels of Security (Unclassified, Secret, Top Secret, All View), which actually change available functionalities when enabled
     * Unclassified allows for Officer and vanilla Soldier Promotions, as well as legacy soldier's stats and stories. Redacts mentions of Psionics and MEC soldiers. P.S.T. is enabled
     * Secret allows for viewing of current soldiers stats and all related functions. Redacts mentions of Psionics and MEC soldiers.
@@ -48,10 +47,7 @@
 ##### Notes:
 ------------------------------------------
 Collaborator(s): Joseph E. Ward
-
 Date Began - Date Finished: (5/31/2016) - (...)
-
 Coded in Python 2.7.2
-
 Help Website References:
 * http://www.unit-conversion.info/texttools/md5/ 
