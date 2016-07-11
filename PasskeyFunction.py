@@ -65,9 +65,8 @@ def run_this_function():
 			print "\nWARNING, final attempt."
 			waitfunc_Xshort('-')
 		if hashlib.md5(rinput).hexdigest() == ciao:
-			print 'Correct Password'
-			print '-' * 10
-			print "\nWelcome Commander"
+			correctpassword_com('\n--Correct Password--')
+			correctpassword_com('\nWelcome Commander\n')
 			waitfunc_short()
 			global elsebreak
 			elsebreak = 0
