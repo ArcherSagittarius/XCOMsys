@@ -22,3 +22,5 @@ High Base: Base Functions
   * Stat Displaying and Editing
 
 Base: Soldier Creation Class
+
+#End of Document
