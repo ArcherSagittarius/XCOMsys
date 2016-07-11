@@ -1,0 +1,24 @@
+#This simply shows the current idea for the system layout
+
+[Location in System: Function/Classes with Bullets for clarification]
+
+Top: XCOMsys GUI
+
+Low Top: Security Level Functions
+  * Unclassified
+  * Secret
+  * Top Secret
+  * All View
+
+Mid: Exporting Functions
+  * Current Campaign to Legacy Campaign
+
+High Base: Base Functions
+  * Passkey Function
+  * Arch Rost (Legacy Soldiers)
+  * Current Campaign
+  * KIA Function
+  * Promotion Functions
+  * Stat Displaying and Editing
+
+Base: Soldier Creation Class
