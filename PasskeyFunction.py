@@ -1,3 +1,6 @@
+#!/usr/bin/python
+#Version 1.0
+
 import hashlib
 import sys
 import time
@@ -71,7 +74,7 @@ def run_this_function():
 			global elsebreak
 			elsebreak = 0
 		
-		#Special case to prevent EXALT sympathizers from gaining access.
+		#Special case to prevent EXALT sympathizers from gaining access. (Mostly an Easter Egg)
 		elif rinput.lower() == 'exalt':
 			print "\nALERT" 
 			print "EXALT hack detected..."
@@ -83,7 +86,7 @@ def run_this_function():
 			waitfunc_long()
 			print "\nViglio Confido"
 			sys.exit()
-		#Effectively a function which regulates the number of times the password can be attempted.
+		#Effectively a function which regulates the number of times the password can be attempted. 
 		
 		else:
 			global rerunpassword
